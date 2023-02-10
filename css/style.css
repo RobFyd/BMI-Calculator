@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+    max-width: 1000px;
+    margin: auto;
+    padding: 15px;
+    line-height: 1.6;
+    background-image: url("C:\dev\BMI-calculator-GIT\fotos");
+    background-repeat: no-repeat;
+    background-position: center;
+    resize: both;
+    overflow: auto;
+    background-size: auto 1300px;
+}
