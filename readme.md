@@ -12,13 +12,13 @@ My first page contains:
 
 ### Scrrenshot
 
-![BMI screenshot]()
+![BMI screenshot](https://github.com/RobFyd/BMI-Calculator/blob/main/fotos/kalkBmi.PNG?raw=true)
 
 If you want to learn more and test the functionality of my first website, click below:
 
 👇
 
-[Homepage]()
+[Homepage](https://robfyd.github.io/BMI-Calculator/)
 
 
 My logo:
