@@ -18,7 +18,7 @@ If you want to learn more and test the functionality of my first website, click 
 
 👇
 
-[Homepage](https://robfyd.github.io/BMI-Calculator/)
+[BMI calc](https://robfyd.github.io/BMI-Calculator/)
 
 
 My logo:
