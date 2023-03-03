@@ -12,7 +12,7 @@ My first page contains:
 
 ### Scrrenshot
 
-![BMI screenshot](C:\.Dev\.Repositories\BMI-calculator GIT\fotos\bmiSS.png)
+![BMI screenshot](https://github.com/RobFyd/BMI-Calculator/blob/main/fotos/bmiSS.png?raw=true)
 
 If you want to learn more and test the functionality of my first website, click below:
 
