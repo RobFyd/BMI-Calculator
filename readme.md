@@ -4,7 +4,7 @@
 
 This is a simple BMI calculator created extracurricularly during the programming course. The "input" event was used in the JavaScript code. The calculator page is still being improved.
 
-My first page contains:
+BMI calculator contains:
 - HTML
 - CSS
 - JS

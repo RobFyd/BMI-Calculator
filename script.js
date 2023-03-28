@@ -14,4 +14,4 @@
 
     formElement.addEventListener("input", inputDataOn);
 }
-//to jest przyklad INPUT//
+//INPUT example//
