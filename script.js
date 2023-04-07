@@ -9,9 +9,7 @@
         let weight = weightElement.value;
         let bmi = weight / ((height / 100) ** 2);
         bmiElement.innerText = bmi.toFixed(2);
-        console.log(height, weight, bmi);
     }
 
     formElement.addEventListener("input", inputDataOn);
 }
-//INPUT example//
