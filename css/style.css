@@ -33,6 +33,15 @@ html {
     align-items: center;
 }
 
+.element {
+    font-weight: bold;
+}
+
+.element__header {
+    font-size: x-large;
+    font-weight: bolder;
+}
+
 .form__field {
     border: 2px solid black;
     padding: 5px;
@@ -41,11 +50,28 @@ html {
     border-radius: 5px;
 }
 
-.element {
-    font-weight: bold;
+.result__container {
+    max-width: 260px;
+    background-color: white;
+    border-radius: 5px;
 }
 
-.element__header {
+.form__result {
     font-size: large;
-    font-weight: bolder;
+}
+
+.underweight {
+    color: #d67212;
+}
+
+.normal {
+    color: #718019 ;
+}
+
+.overweight {
+    color: #d67212;
+}
+
+.obesity {
+    color: #ca0108;
 }
