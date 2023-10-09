@@ -2,7 +2,7 @@
 
 ### Description
 
-This is a simple BMI calculator created extracurricularly during the programming course. The "input" event was used in the JavaScript code. The calculator page is still being improved.
+This is a simple BMI calculator created extracurricularly during the programming course. The "input" event was used in the JavaScript code. The photo used in the background comes from my private photo collection :) The calculator page is still being improved.
 
 BMI calculator contains:
 - HTML
