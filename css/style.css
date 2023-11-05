@@ -22,7 +22,7 @@ html {
     max-width: 300px;
     margin: auto;
     padding: 20px;
-    background: rgba(252, 252, 252, 0.7);
+    background: rgba(252, 252, 252, 0.5);
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(1.5px);
@@ -38,7 +38,7 @@ html {
 }
 
 .element__header {
-    font-size: x-large;
+    font-size: 28px;
     font-weight: bolder;
 }
 
@@ -52,8 +52,13 @@ html {
 
 .result__container {
     max-width: 260px;
+    height: 40px;
+    margin-top: 20px;
     background-color: white;
     border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .form__result {
