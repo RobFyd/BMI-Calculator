@@ -4,7 +4,10 @@
 
 This is a simple BMI calculator created extracurricularly during the programming course. The "input" event was used in the JavaScript code. The photo used in the background comes from my private photo collection :) The calculator page is still being improved.
 
-BMI calculator contains:
+### BMI calculator contains:
+
+![TechnologiesIcons](https://skillicons.dev/icons?i=html,css,js,github,vscode)
+
 - HTML
 - CSS
 - JS
