@@ -1,9 +1,10 @@
 "use strict";
 {
-    let heightElement = document.querySelector(".js-height");
-    let weightElement = document.querySelector(".js-weight");
-    let formElement = document.querySelector(".js-form");
-    let bmiElement = document.querySelector(".js-bmi");
+    const heightElement = document.querySelector(".js-height");
+    const weightElement = document.querySelector(".js-weight");
+    const formElement = document.querySelector(".js-form");
+    const bmiElement = document.querySelector(".js-bmi");
+    const dateElement = document.querySelector(".js-date");
     const inputDataOn = () => {
         let height = parseFloat(heightElement.value);
         let weight = parseFloat(weightElement.value);
@@ -23,4 +24,18 @@
         }
     };
     formElement.addEventListener("input", inputDataOn);
+    const calcDate = () => {
+        const date = new Date();
+        const newDate = date.toLocaleDateString("en-EN", {
+            weekday: "long",
+            day: "numeric",
+            month: "long",
+            year: "numeric",
+            hour: "numeric",
+            minute: "numeric",
+            second: "numeric",
+        });
+        dateElement.innerText = newDate;
+    };
+    setInterval(calcDate, 1000);
 }
