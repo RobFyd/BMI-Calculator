@@ -1,4 +1,4 @@
-
+```js
 {
   const calcDate = () => {
     const date = new Date();
@@ -41,3 +41,4 @@
 
   formElement.addEventListener("input", inputDataOn);
 }
+```
