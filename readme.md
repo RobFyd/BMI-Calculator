@@ -6,11 +6,12 @@ This is a simple BMI calculator created extracurricularly during the programming
 
 ### BMI calculator contains:
 
-![TechnologiesIcons](https://skillicons.dev/icons?i=html,css,js,github,vscode)
+![TechnologiesIcons](https://skillicons.dev/icons?i=html,css,js,ts,github,vscode)
 
 - HTML
 - CSS
-- JS
+- JavaScript
+- TypeScript
 - BEM convention
 
 ### Scrrenshot
